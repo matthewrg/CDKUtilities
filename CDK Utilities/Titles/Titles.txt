@@ -1,0 +1,22 @@
+Add Parts
+Add/Update Names - Parts
+Adjust And Receipt
+Cashiering
+Comment Line
+Create/Modify Parts Invoice
+Create Order
+Customer and Vehicle Search
+Enter Change Reason
+Invoicing (I)
+No Matching Names
+Parts Charges For Repair Order
+Parts Detail Activity Display
+PO #
+ServicePricing Add Part
+SOR Roll
+Tab Color
+Tab Name
+Update Freight
+parts
+com
+cmd
